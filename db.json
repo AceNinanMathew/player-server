@@ -1,0 +1,28 @@
+{
+  "playerDetails": [
+    {
+      "id": "7541",
+      "playerName": "Ronaldo",
+      "playerAge": "39",
+      "playerPosition": "CF",
+      "totalMatches": "231",
+      "playerImageURL": "https://theshillongtimes.com/wp-content/uploads/2020/10/cristiano-ronaldo.jpg"
+    },
+    {
+      "id": "fd03",
+      "playerName": "Neymar",
+      "playerAge": "32",
+      "playerPosition": "SS",
+      "totalMatches": "160",
+      "playerImageURL": "https://th.bing.com/th/id/OIP.rRUeAFiVvSeD6nqCMq1siQHaE8?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "8c67",
+      "playerName": "Johan Cruyff",
+      "playerAge": "68",
+      "playerPosition": "SS",
+      "totalMatches": "329",
+      "playerImageURL": "https://tse2.mm.bing.net/th?id=OIP.MQE5cEb_KfiRDndv7SKfEQHaLH&rs=1&pid=ImgDetMain"
+    }
+  ]
+}
